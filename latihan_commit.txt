@@ -1,1 +1,2 @@
 Latihan commit Git
+Commit ke-2
